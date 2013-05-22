@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/apache/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/ftp/ftplet-api-1.0.5.jar"/>
+	<classpathentry kind="lib" path="libs/ftp/ftpserver-core-1.0.5.jar"/>
+	<classpathentry kind="lib" path="libs/ftp/mina-core-2.0.0-M4.jar"/>
+	<classpathentry kind="lib" path="libs/ftp/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="libs/ftp/slf4j-simple-1.5.2.jar"/>
+	<classpathentry kind="lib" path="libs/json/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/json/JSON4J.jar"/>
+	<classpathentry kind="lib" path="libs/swing/swing-layout-1.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
